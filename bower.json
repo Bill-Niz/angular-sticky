@@ -1,0 +1,25 @@
+{
+  "name": "angular-sticky",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Bill-Niz/angular-sticky",
+  "authors": [
+    "Matt Osborn"
+  ],
+  "description": "A simple directive enables sticky functionality to be added to elements, causing them to stick to the top of the screen as they are scrolled past.",
+  "main": "sticky.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "stikcy",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
